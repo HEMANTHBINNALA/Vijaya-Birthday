@@ -6,6 +6,7 @@ on:
     paths:
       - "VIJAYA BIRTHDAY/**"
       - ".github/workflows/deploy-pages.yml"
+      - "index.html"
   workflow_dispatch:
 
 permissions:
